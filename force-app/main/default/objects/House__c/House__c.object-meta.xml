@@ -155,7 +155,7 @@
     <externalSharingModel>Private</externalSharingModel>
     <label>House</label>
     <nameField>
-        <label>House</label>
+        <label>House Name</label>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
     </nameField>
