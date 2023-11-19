@@ -1,0 +1,19 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "package": "TV_unl",
+      "scopeProfiles": true,
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": true,
+      "unpackagedMetadata": {
+        "path": "my-unpackaged-directory"
+      }
+    }
+  ],
+  "name": "debugger-project",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "58.0"
+}
