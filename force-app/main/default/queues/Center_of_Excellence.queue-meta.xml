@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Queue xmlns="http://soap.sforce.com/2006/04/metadata">
+    <doesSendEmailToMembers>false</doesSendEmailToMembers>
+    <name>Center of Excellence</name>
+    <queueMembers>
+        <users>
+            <user>amelia.ellington.1.46kxcp9oodih.d6cwpdcuo4wh.hnbdwmvwhwhq.vzx6dfkumv2v@gmail.com</user>
+        </users>
+    </queueMembers>
+    <queueSobject>
+        <sobjectType>Enhancement_Request__c</sobjectType>
+    </queueSobject>
+</Queue>
